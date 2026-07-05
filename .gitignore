@@ -1,3 +1,4 @@
 *.mbox
 mail_index.db*
 __pycache__/
+CLAUDE.md
